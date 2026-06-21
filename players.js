@@ -166,31 +166,60 @@ const players = {
   
   "Arseniy_zabanen": [
     {
-      role: "Суддя",
+      role: "Головний Суддя",
       telegram: "t.me/Samyry228",
       category: "Суд",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E913BC846B4C63706C0E103F604EB4D9-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
-  ],
-
-  "Rjdef31": [
+  ],  
+  "mummu228kuku": [
     {
-      role: "Суддя",
-      telegram: "t.me/Sp0nge_bro",
+      role: "Заступник Головного Судді",
+      telegram: "t.me/here_everyone",
       category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9418E9FDC4342C2971FEA3149DD8D5A1-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4D74895EEC1F4CA85C925E04EBA61D55-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
-
-  "starikashka228337": [
+  "eeeeyegeggegehux": [
     {
       role: "Суддя",
-      telegram: "t.me/xxx_DELTA_xxx",
+      telegram: "t.me/JonDR_9620R",
       category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-765D2C2769AAF0D1966A8F7536B98A02-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8381BA2F4889ED8823C85AEC360CC9B6-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
-
+  "Yffgjjifh": [
+    {
+      role: "Суддя",
+      telegram: "t.me/Yarik4h",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F996F8CFD4ECEDA7A40C3F84F4670747-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
+  "rb_girl1535": [
+    {
+      role: "Суддя",
+      telegram: "t.me/D1RT4M",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-007599C06AE5701BA415E94D28B4910F-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
+  "svervanchik": [
+    {
+      role: "Суддя",
+      telegram: "t.me/Svervanchik",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CECBEFBF4E588D2B31D9B2FE78F80C13-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
+  "Levopravo2024": [
+    {
+      role: "Охоронець Суду",
+      telegram: "t.me/Alexandriulik",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1D0527DBC9EAF981AD87BB30F0447998-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
   "Zaj_Zuga3": [
     {
       role: "Державний Адвокат",
