@@ -747,18 +747,7 @@ window.licenses = {
 
   // Звання працівників ДБР
   dbr: {
-    "artemMelnichenko2013": { role: "Полковник", status: "417524", telegram: "5242336088" },
-    "agency_roblox4": { role: "Генерал-Полковник", status: "737378", telegram: "7373162173" },
-    "Marsianin_l0l": { role: "Генерал-майор", status: "103763", telegram: "7636472784" },
-    "ROSTIKTHS": { role: "Молодший Лейтенант", status: "269515", telegram: "5151514815" },
-    "yatupoykogdabalans2": { role: "Молодший Лейтенант", status: "870571", telegram: "5710792095" },
-    "Black_Batman02": { role: "Рядовий", status: "379109", telegram: "1093245097" },
-    "Robert_polsan228": { role: "Капрал", status: "537709", telegram: "5367053785" },
-    "3333OMON": { role: "Рядовий", status: "114605", telegram: "6058122903" },
-    "Makarmaka91": { role: "Рядовий", status: "462622", telegram: "6229743963" },
-    "Mykhailo_Zaya1": { role: "Рядовий", status: "158595", telegram: "5295879849" },
-    "hdyfudjfv": { role: "Рядовий", status: "654138", telegram: "6547254721" },
-    "DoggyGames_TV24": { role: "Рядовий", status: "357626", telegram: "6261556258" },
+    "3cy_77781046": { role: "Генерал-Полковник", status: "418637", telegram: "6370149052" },
   },
 
   // Таксистська ліцензія
