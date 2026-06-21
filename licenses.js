@@ -26,19 +26,7 @@ window.licenses = {
     
 
     // ДБР
-    "artemMelnichenko2013": { status: "Дійсна", expiry: "30.07.2026", telegram: "5242336088" },
-    "agency_roblox4": { status: "Дійсна", expiry: "30.07.2026", telegram: "7373162173" },
-    "ROSTIKTHS": { status: "Дійсна", expiry: "30.07.2026", telegram: "5151514815" },
-    "Marsianin_l0l": { status: "Дійсна", expiry: "30.07.2026", telegram: "7636472784" },
-    "yatupoykogdabalans2": { status: "Дійсна", expiry: "30.07.2026", telegram: "5710792095" },
-    "Caston08963": { status: "Дійсна", expiry: "30.07.2026", telegram: "7557434574" },
-    "Robert_polsan228": { status: "Дійсна", expiry: "30.07.2026", telegram: "1921850684" },
-    "3333OMON": { status: "Дійсна", expiry: "30.07.2026", telegram: "6058122903" },
-    "makxuitaem": { status: "Дійсна", expiry: "30.07.2026", telegram: "8291507970" },
-    "Black_Batman02": { status: "Дійсна", expiry: "30.07.2026", telegram: "1093245097" },
-    "Makarmaka91": { status: "Дійсна", expiry: "30.07.2026", telegram: "6229743963" },
-    "hdyfudjfv": { status: "Дійсна", expiry: "30.07.2026", telegram: "6547254721" },
-    "Mykhailo_Zaya1": { status: "Дійсна", expiry: "30.07.2026", telegram: "5295879849" },
+    "3cy_77781046": { status: "Дійсна", expiry: "30.07.2026", telegram: "6370149052" },
 
     // Суд
 
@@ -124,7 +112,7 @@ window.licenses = {
     "2012UA123": { "role": "6 580", "status": "402560", "expiry": "", "telegram": "5609089532" },
 
     // 3 (перший символ username)
-    "3cy_77781046": { "role": "Начальник НПС", "status": "418637", "expiry": "", "telegram": "6370149052" },
+    "3cy_77781046": { "role": "Комісар", "status": "418637", "expiry": "", "telegram": "6370149052" },
     "3333OMON": { "role": "38 978", "status": "114605", "expiry": "", "telegram": "6058122903" },
     
     // 4
@@ -252,7 +240,7 @@ window.licenses = {
     "danik_pro221": { "role": "34 885", "status": "201701", "expiry": "", "telegram": "7012057243" },
     "djdkdsbxi": { "role": "6 442", "status": "862803", "expiry": "", "telegram": "8031988249" },
     "DED_UNCAUDolo": { "role": "1 453", "status": "339514", "expiry": "", "telegram": "5147766858" },
-    "DANYA0705DANYA": { "role": "45 009", "status": "392164", "expiry": "", "telegram": "1644768537" },
+    "DANYA0705DANYA": { "role": "Начальник НПС", "status": "392164", "expiry": "", "telegram": "1644768537" },
     "DarkSpeakermanRBX": { "role": "7 104", "status": "561839", "expiry": "", "telegram": "8391433209" },
     "DIMA2442dvsg": { "role": "6 962", "status": "451547", "expiry": "", "telegram": "5474315984" },
     "desna200": { "role": "Комісар", "status": "135548", "expiry": "", "telegram": "5481711216" },
