@@ -305,14 +305,6 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F996F8CFD4ECEDA7A40C3F84F4670747-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
-  "DANYA0705DANYA": [
-    {
-      role: "Начальник НПС",
-      telegram: "t.me/xXz8br8Xx",
-      category: "НПС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E1719F739199C8C430D9F4A6B344C88B-Png/150/150/AvatarHeadshot/Png/noFilter",
-    },
-  ],
 
   "eeeeyegeggegehux": [
     {
