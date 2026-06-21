@@ -641,6 +641,7 @@ window.licenses = {
     "tymkoBr0": { "role": "0", "status": "837108", "expiry": "", "telegram": "8377880216" },
 
     "test": { role: "Комісар", status: "315211", expiry: "", telegram: "1234123123" },
+  "test2": { "role": "50000", "status": "231233", "expiry": "", "telegram": "2311312" },
     // U
     "Ukraine_n100": { "role": "752", "status": "930726", "expiry": "", "telegram": "7264304153" },
     "Ukristi2020": { "role": "3 430", "status": "483663", "expiry": "", "telegram": "6638796744" },
