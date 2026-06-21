@@ -281,6 +281,30 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E1719F739199C8C430D9F4A6B344C88B-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
+  "samunzhiev": [
+    {
+      role: "Керівник ДКОРД",
+      telegram: "t.me/LevBarinovv",
+      category: "НПС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4D9FE77C72950DFCC489479EDBA47756-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
+  "Maksmakus": [
+    {
+      role: "Керівник ДП",
+      telegram: "t.me/Maksikus19",
+      category: "НПС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-86EC8AD5E099209C81C822DA9B8DCFFD-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
+  "Yffgjjifh": [
+    {
+      role: "Керівник ПП",
+      telegram: "t.me/Yarik4h",
+      category: "НПС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F996F8CFD4ECEDA7A40C3F84F4670747-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
   
 
   "eeeeyegeggegehux": [
