@@ -142,7 +142,16 @@ const players = {
     },
   ],
 
-   "DANYA0705DANYA": [
+   
+  "svyatosuk489": [
+    {
+      "role": "R1a Адміністратор-Патрульний",
+      "telegram": "1567835732",
+      "category": "Адміністрація",
+      "avatar": "Всьо?",
+    },
+  ],
+"DANYA0705DANYA": [
     {
       role: "Начальник НПС",
       telegram: "t.me/xXz8br8Xx",
