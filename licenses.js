@@ -341,6 +341,7 @@ window.licenses = {
 
 
     "Huhaidjopy": { role: "ветеран", status: "449671", expiry: "", telegram: "671500607" },
+    "hajgitl57": { role: "ветеран", status: "721778", expiry: "", telegram: "7781940225" },
     // I
     "Isus_338": { "role": "10 014", "status": "869502", "expiry": "", "telegram": "5020585585" },
     "IhateMonday431": { "role": "141 080", "status": "247124", "expiry": "", "telegram": "1244314206" },
