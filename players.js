@@ -142,16 +142,7 @@ const players = {
     },
   ],
 
-  "Mr_Zver3000": [
-    {
-      role: "R1a Адміністратор-Патрульний",
-      telegram: "t.me/xIIIKOLHIKx",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-21DBC8287571A2E93806F3E0266519DE-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "ONLYvPOTOKE": [
+"ONLYvPOTOKE": [
     {
       role: "R1a Адміністратор-Патрульний",
       telegram: "t.me/militaryxxs",
