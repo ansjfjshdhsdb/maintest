@@ -178,6 +178,7 @@ window.licenses = {
 
     "Artem53974": { role: "2012", status: "829810", expiry: "", telegram: "8100856726" },
     "altnik2015": { role: "16970", status: "187800", expiry: "", telegram: "8000467290" },
+    "anton455ik": { role: "4800", status: "101629", expiry: "", telegram: "6295420660" },
     // B
     "Bandera909": { "role": "Ветеран", "status": "353690", "expiry": "", "telegram": "6909809142" },
     "banan_228gg1": { "role": "56 775", "status": "607724", "expiry": "", "telegram": "7249340917" },
