@@ -640,6 +640,7 @@ window.licenses = {
     "shokhis": { role: "4000", status: "368551", expiry: "", telegram: "5518111025" },
     "simiaKoTenAsA38": { role: "5200", status: "440610", expiry: "", telegram: "6109024849" },
     "sastntpro": { role: "797", status: "848848", expiry: "", telegram: "8487014064" },
+    "sorawye": { role: "4300", status: "842166", expiry: "", telegram: "1660291594" },
     // T
     "Twister_devil8393": { "role": "20 745", "status": "535178", "expiry": "", "telegram": "1783909923" },
     "Tezil0": { "role": "23 457", "status": "538615", "expiry": "", "telegram": "6156909455" },
