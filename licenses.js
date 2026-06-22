@@ -559,6 +559,7 @@ window.licenses = {
     "pryora87": { "role": "5 920", "status": "695794", "expiry": "", "telegram": "6592999735" },
     "panba1868": { "role": "339", "status": "725924", "expiry": "", "telegram": "7255510561" },
 
+    "Partizanen228": { role: "5400", status: "779566", expiry: "", telegram: "566757782" },
     // Q
 
     // R
