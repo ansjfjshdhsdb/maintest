@@ -272,6 +272,7 @@ window.licenses = {
     "DanieliGro": { "role": "29 359", "status": "542893", "expiry": "", "telegram": "5422861091" },
     
     "Doschik_hah": { role: "1389", status: "265782", expiry: "", telegram: "7823542741" },
+    "Dddrrrtttyykjhj": { role: "32000", status: "451590", expiry: "", telegram: "5903095976" },
     // E
     "eldor830": { "role": "42 245", "status": "506626", "expiry": "", "telegram": "6267044472" },
     "EGOROK18": { "role": "38 644", "status": "580747", "expiry": "", "telegram": "7470153375" },
