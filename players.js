@@ -115,16 +115,7 @@ const players = {
 
 
 
-  "Ntinetter": [
-    {
-      role: "R1a Адміністратор-Патрульний",
-      telegram: "t.me/makyas10",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-32D12D1DC17A08FD27581EAAD54FA694-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "K_PoPlove9473": [
+"K_PoPlove9473": [
     {
       role: "R1a Адміністратор-Патрульний",
       telegram: "t.me/CHED4Y",
