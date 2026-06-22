@@ -294,6 +294,7 @@ window.licenses = {
     "FunnyArtem_2012": { "role": "18 266", "status": "522728", "expiry": "", "telegram": "5228238256" },
     "ferd1358": { "role": "1 294", "status": "612605", "expiry": "", "telegram": "6124873630" },
 
+    "fimozik_tworozok": { role: "6000", status: "828770", expiry: "", telegram: "7700192997" },
     // G
     "gonorer45": { "role": "14 520", "status": "120161", "expiry": "", "telegram": "1613994040" },
     "GordiyYarmolenko": { "role": "Комісар", "status": "471644", "expiry": "", "telegram": "6446581492" },
