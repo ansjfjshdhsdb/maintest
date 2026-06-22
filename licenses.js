@@ -363,6 +363,7 @@ window.licenses = {
     "illj6497": { "role": "2 186", "status": "681828", "expiry": "", "telegram": "8428673618" },
 
 
+    "IlyaChiter777": { role: "917", status: "173796", expiry: "", telegram: "7969050171" },
     // J
     "jrlm_987": { "role": "15 556", "status": "384680", "expiry": "", "telegram": "6800141946" },
     "JustIwannaMoney": { "role": "154", "status": "567628", "expiry": "", "telegram": "6283446597" },
