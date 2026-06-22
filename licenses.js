@@ -176,6 +176,7 @@ window.licenses = {
     "ARtem4uk": { "role": "63 412", "status": "191436", "expiry": "", "telegram": "1915195071" },
    
 
+    "Artem53974": { role: "2012", status: "829810", expiry: "", telegram: "8100856726" },
     // B
     "Bandera909": { "role": "Ветеран", "status": "353690", "expiry": "", "telegram": "6909809142" },
     "banan_228gg1": { "role": "56 775", "status": "607724", "expiry": "", "telegram": "7249340917" },
