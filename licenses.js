@@ -432,6 +432,7 @@ window.licenses = {
     "Luffyzoro2329": { "role": "529", "status": "612674", "expiry": "", "telegram": "6740512496" },
     "L1ngate": { "role": "3 010", "status": "107848", "expiry": "", "telegram": "8487014064" },
 
+    "LolLol70707": { role: "1000", status: "142873", expiry: "", telegram: "8733000460" },
     // M
     "mamkinxaker229": { "role": "46 264", "status": "329543", "expiry": "", "telegram": "5433768754" },
     "max123457934": { role: "29 887", status: "784732", expiry: "", telegram: "7329674344" },
