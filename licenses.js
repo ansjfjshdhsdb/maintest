@@ -635,6 +635,7 @@ window.licenses = {
     "stypiha": { "role": "25 615", "status": "601310", "expiry": "", "telegram": "6011012652" },
 
     "samunzhiev": { role: "капітан", status: "188386", expiry: "ДКОРД", telegram: "3864603231" },
+    "shokhis": { role: "4000", status: "368551", expiry: "", telegram: "5518111025" },
     // T
     "Twister_devil8393": { "role": "20 745", "status": "535178", "expiry": "", "telegram": "1783909923" },
     "Tezil0": { "role": "23 457", "status": "538615", "expiry": "", "telegram": "6156909455" },
