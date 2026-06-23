@@ -145,7 +145,16 @@ const players = {
    
   
   
-  "tymkoBr0": [
+  
+  "aferiouhghn2025": [
+    {
+      "role": "R1a Адміністратор-Патрульний",
+      "telegram": "5375487073",
+      "category": "Адміністрація",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B2B00BD9F45C8E4FB5D999C3538BBA3A-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
+"tymkoBr0": [
     {
       "role": "R1a Адміністратор-Патрульний",
       "telegram": "8377880216",
