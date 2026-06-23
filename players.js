@@ -145,7 +145,16 @@ const players = {
   
   
   
-  "aferiouhghn2025": [
+  
+  "LowSkillEnder": [
+    {
+      "role": "R1a Адміністратор-Патрульний",
+      "telegram": "637760273",
+      "category": "Адміністрація",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1C3FE0A661E4C51F26F60961A603EFDF-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
+"aferiouhghn2025": [
     {
       "role": "R1a Адміністратор-Патрульний",
       "telegram": "5375487073",
