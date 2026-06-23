@@ -379,7 +379,16 @@ const players = {
   
   
   
-  "master_patata1": [
+  
+  "XxsSashaxxjj": [
+    {
+      "role": "Радник",
+      "telegram": "t.me/XxsSashaxxjj",
+      "category": "Мерія",
+      "avatar": "https://i.postimg.cc/ry5Mgfrj/IMG-20260624-010747-809.jpg",
+    },
+  ],
+"master_patata1": [
     {
       "role": "Секретар",
       "telegram": "t.me/hello_amqruko",
