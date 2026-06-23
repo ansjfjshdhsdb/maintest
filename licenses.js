@@ -35,6 +35,7 @@ window.licenses = {
    
     
 
+    "makspsava": { status: "Дійсна", expiry: "24.07.2026", telegram: "t.me/RoksyxMaks" },
 },
 
   // Зареєстровані бізнеси
