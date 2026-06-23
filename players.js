@@ -377,7 +377,16 @@ const players = {
 
   
   
-  "34436euf": [
+  
+  "Den45bgg": [
+    {
+      "role": "Охоронець",
+      "telegram": "t.me/Hoslifx7pro6ka",
+      "category": "Мерія",
+      "avatar": "https://i.postimg.cc/Ls3cdWmK/IMG-20260624-004339-483.jpg",
+    },
+  ],
+"34436euf": [
     {
       "role": "Охоронець",
       "telegram": "t.me/Artem75fgj",
