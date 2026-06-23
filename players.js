@@ -378,7 +378,16 @@ const players = {
   
   
   
-  "Den45bgg": [
+  
+  "master_patata1": [
+    {
+      "role": "Секретар",
+      "telegram": "t.me/hello_amqruko",
+      "category": "Мерія",
+      "avatar": "https://i.postimg.cc/8C40Xrbd/IMG-20260624-004700-310.jpg",
+    },
+  ],
+"Den45bgg": [
     {
       "role": "Охоронець",
       "telegram": "t.me/Hoslifx7pro6ka",
