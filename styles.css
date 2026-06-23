@@ -84,28 +84,18 @@
 }
 
 @media (max-width: 768px) {
-    /* 1. Ограничиваем вкладку шириной экрана и включаем скролл */
     #map.tab-panel {
-        width: 100%;
-        max-width: 100vw; /* Жесткий лимит по ширине экрана */
         overflow-x: auto;
         overflow-y: hidden;
         padding-bottom: 20px;
     }
     
-    /* 2. Фиксируем заголовок "МАПА", чтобы он не уезжал влево при скролле (по желанию) */
-    #map .header-wrapper {
-        position: sticky;
-        left: 0;
-    }
-    
-    /* 3. Жестко фиксируем контейнер на 800px для правильного расчета координат значков */
     .map-container {
         width: 800px;
         min-width: 800px; 
-        overflow: visible; 
+        overflow: visible;
         border-radius: 10px;
-        margin: 0; 
+        margin: 0;
     }
     
     .eh-map-img {
