@@ -17,12 +17,12 @@ window.licenses = {
     */
 
     // СБС
-    "mauakowskiy": { status: "Дійсна", expiry: "30.07.2026", telegram: "5208276815" },
-    "jnskwwlwkwkwksk": { status: "Дійсна", expiry: "30.07.2026", telegram: "6308121808" },
-    "sergij18": { status: "Дійсна", expiry: "30.07.2026", telegram: "1138522447" },
-    "BMW_5098591": { status: "Дійсна", expiry: "30.07.2026", telegram: "6042898465" },
-    "Caston": { status: "Дійсна", expiry: "30.07.2026", telegram: "7557434574" },
-    "dariysmertnk": { status: "Дійсна", expiry: "30.07.2026", telegram: "7889063904" },
+    "jofer_hob": { status: "Дійсна", expiry: "30.07.2026", telegram: "6840451973" },
+    "Caston08963": { status: "Дійсна", expiry: "30.07.2026", telegram: "7557434574" },
+    "DariySmertnk": { status: "Дійсна", expiry: "30.07.2026", telegram: "7889063904" },
+    "Mykhailo_Zaya1": { status: "Дійсна", expiry: "30.07.2026", telegram: "5295879849" },
+    "Valintin530": { status: "Дійсна", expiry: "30.07.2026", telegram: "5409858031" },
+    "Maksimka20131411": { status: "Дійсна", expiry: "30.07.2026", telegram: "8632389084" },
     
 
     // ДБР
@@ -762,15 +762,12 @@ window.licenses = {
 
   // Звання працівників СБС
   sbs: {
-    "levopravo2024": { role: "Сержант", status: "513749", telegram: "t.me/Aleksandryulik" },
-    "SIGMA2019827": { role: "Рядовий", status: "777917", telegram: "t.me/shu754228" },
-    "kolopohv": { role: "Підполковник", status: "628481", telegram: "6286540452" },
-    "777ivan07": { role: "Капітан", status: "203243", telegram: "2036860761" },
-    "Zoomsos123": { role: "Генерал-Полковник", status: "533350", telegram: "5339606531" },
-    "golopa076": { role: "Рядовий", status: "854745", telegram: "8549231265" },
-    "Caston": { role: "Рядовий", status: "755477", telegram: "7557434574" },
-    "Mini_broTBINK4": { role: "Рядовий", status: "872958", telegram: "7501968269" },
-    "dariysmertnk": { role: "Рядовий", status: "788333", telegram: "7889063904" },
+    "jofer_hob": { role: "Директор СБС", status: "684420", telegram: "t.me/m1nistr_ezz" },
+    "Caston08963": { role: "Генерал-Майор", status: "755477", telegram: "t.me/Obs1dianch1k" },
+    "DariySmertnk": { role: "Керівник ЦСО-А", status: "788333", telegram: "t.me/dariysmertnk" },
+    "Mykhailo_Zaya1": { role: "Сержант", status: "529158", telegram: "t.me/smishaa" },
+    "Valintin530": { role: "Сержант", status: "540243", telegram: "t.me/Sigmaboy556" },
+    "Maksimka20131411": { role: "Рядовий", status: "863304", telegram: "t.me/maks2022UK" },
   },
 
   // Звання працівників ДБР
