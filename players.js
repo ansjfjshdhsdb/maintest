@@ -162,12 +162,12 @@ const players = {
       "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-DB31837E7776B036FF3388DD03EC17F1-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
-"bodja150510": [
+  "bodja150510": [
     {
       "role": "R1a Адміністратор-Патрульний",
       "telegram": "1334371648",
       "category": "Адміністрація",
-      "avatar": "Бльо",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4377B212193308CB7A61922DB2813ECD-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
 "svyatosuk489": [
