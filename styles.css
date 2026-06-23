@@ -84,14 +84,25 @@
 }
 
 @media (max-width: 768px) {
-    .map-container {
+    /* 1. Добавляем скролл на саму вкладку (родительский блок), чтобы страница не ломалась */
+    #map.tab-panel {
         overflow-x: auto;
-        overflow-y: visible;
-        border-radius: 10px;
+        overflow-y: hidden;
+        padding-bottom: 20px; /* Даем место, чтобы нижние тултипы не обрезались */
     }
     
-    .eh-map-img {
+    /* 2. Жестко фиксируем контейнер, чтобы координаты маркеров считались от 800px */
+    .map-container {
         width: 800px;
+        min-width: 800px; 
+        overflow: visible; /* Убираем скролл отсюда, он теперь на вкладке #map */
+        border-radius: 10px;
+        margin: 0; /* Убираем авто-отступы, чтобы карта начиналась от левого края */
+    }
+    
+    /* 3. Картинка теперь просто подстраивается под контейнер */
+    .eh-map-img {
+        width: 100%;
         max-width: none;
     }
     
@@ -107,6 +118,7 @@
         top: 34px;
     }
 }
+
 .map-marker .tooltip-left {
     left: auto;
     right: 50%;
