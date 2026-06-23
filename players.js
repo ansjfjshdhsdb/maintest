@@ -12,14 +12,13 @@ const players = {
   
   "Bandera909": [
     {
-      role: "R6 Власник сервера",
-      telegram: "t.me/Great_Terku",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-55A9B26BA82296BD37C9B8F883E5590A-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      "role": "R6 Власник Сервера",
+      "telegram": "8556123935",
+      "category": "Адміністрація",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-52E8D0AEDF9EBFC016ABC09EAEDCA17D-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
-
-  "lSqwizzyl": [
+"lSqwizzyl": [
     {
       role: "R5 Заступник власника",
       telegram: "t.me/shppsqwizzy",
