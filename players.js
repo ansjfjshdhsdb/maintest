@@ -146,7 +146,16 @@ const players = {
   
   
   
-  "LowSkillEnder": [
+  
+  "Black_Batman02": [
+    {
+      "role": "R1a Адміністратор-Патрульний",
+      "telegram": "1093245097",
+      "category": "Адміністрація",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C2D1A3D92D966EE18E0BE59352F3842F-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
+"LowSkillEnder": [
     {
       "role": "R1a Адміністратор-Патрульний",
       "telegram": "637760273",
