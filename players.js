@@ -29,7 +29,7 @@ const players = {
 
   "Andrushka_pupsik": [
     {
-      "role": "R4 Головний Адміністратор",
+      "role": "R4 Головний Адміністратор - Технічний Адміністратор",
       "telegram": "5262299554",
       "category": "Адміністрація",
       "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2B95AE261EC071378C8302F224B4C7BD-Png/150/150/AvatarHeadshot/Png/noFilter",
