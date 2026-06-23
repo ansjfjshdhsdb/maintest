@@ -376,7 +376,16 @@ const players = {
 
 
   
-  "makspsava": [
+  
+  "34436euf": [
+    {
+      "role": "Охоронець",
+      "telegram": "t.me/Artem75fgj",
+      "category": "Мерія",
+      "avatar": "https://i.postimg.cc/ydB7c98P/IMG-20260624-003930-118.jpg",
+    },
+  ],
+"makspsava": [
     {
       "role": "Охоронець",
       "telegram": "t.me/RoksyxMaks",
