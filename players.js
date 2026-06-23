@@ -126,13 +126,12 @@ const players = {
 
   "Rjdef31": [
     {
-      role: "R1a Адміністратор-Патрульний",
-      telegram: "t.me/Iam_lurk",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9418E9FDC4342C2971FEA3149DD8D5A1-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      "role": "R1b Адміністратор-Повітряний Контроль",
+      "telegram": "6952642925",
+      "category": "Адміністрація",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9418E9FDC4342C2971FEA3149DD8D5A1-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
-
 "ONLYvPOTOKE": [
     {
       role: "R1a Адміністратор-Патрульний",
