@@ -272,35 +272,54 @@ const players = {
 
 
 
-  "mauakowskiy": [
+  "jofer_hob": [
     {
       role: "Директор СБС",
-      telegram: "5208276815",
+      telegram: "6840451973",
       category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7128C0443F429F83D6395B065DF3873C-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-457EE421854B309A4B875397B407F4E1-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
    ],
-
- 
-   "BMW_5098591": [
+   "Caston08963": [
     {
       role: "Працівник СБС",
-      telegram: "t.me/mxsnxc",
+      telegram: "t.me/Obs1dianch1k",
       category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E1A6264E0C3147E1F08AE9027E87FE9E-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-471D511633F97213BB6BEDAEBF0D54F5-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
-  ],
-
-  "jnskwwlwkwkwksk": [
+   ],
+   "DariySmertnk": [
     {
       role: "Працівник СБС",
-      telegram: "t.me/ALtHefaY",
+      telegram: "t.me/dariysmertnk",
       category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8DE352D3DE71036FED83918A00F3A036-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-068CF7C938D41406777ACC560CE7312B-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
-  ],
-
-
+   ],
+   "Mykhailo_Zaya1": [
+    {
+      role: "Працівник СБС",
+      telegram: "t.me/smishaa",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F9D5959A62978D4CE817228248B20DDB-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+   ],
+   "Valintin530": [
+    {
+      role: "Працівник СБС",
+      telegram: "t.me/Sigmaboy556",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-46422B5667021E2404CF32D2360E627B-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+   ],
+   "Maksimka20131411": [
+    {
+      role: "Працівник СБС",
+      telegram: "t.me/maks2022UK",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B5D62044B7852A73C738BBD917BEF007-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+   ],
 
  // тут був нпс
 
