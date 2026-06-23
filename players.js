@@ -157,7 +157,7 @@ const players = {
       "role": "R1a Адміністратор-Патрульний",
       "telegram": "1567835732",
       "category": "Адміністрація",
-      "avatar": "Всьо?",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-AB24D78C55810DE8C8D00F170CC31CA8-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
 "DANYA0705DANYA": [
@@ -341,7 +341,14 @@ const players = {
       avatar: "/img/avatar/marriage/Rostyk_gej71.webp",
     },
   ],
-
+  "ZoomSos123": [
+    {
+      role: "Мер",
+      telegram: "t.me/kitsuxen",
+      category: "Мерія",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-5CD467A78208C95DC904F3F5209EE15C-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
   
   
 
