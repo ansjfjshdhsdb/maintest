@@ -46,15 +46,13 @@ const players = {
 
   "sergij18": [
     {
-      role: "R3 Старший адміністратор",
-      telegram: "t.me/Sergij9000",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E5CC33E7C8EEE48592B08C86828131AB-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      "role": "R1a Адміністратор-Патрульний",
+      "telegram": "1138522447",
+      "category": "Адміністрація",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E5CC33E7C8EEE48592B08C86828131AB-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
-
-  
-  "Itz_raose": [
+"Itz_raose": [
     {
       role: "Технічний адміністратор",
       telegram: "t.me/li9nes",
