@@ -35,7 +35,6 @@ window.licenses = {
    
     
 
-      "makspsava": { cans: "CANS через makspsava.", status: "Дійсна", expiry: "25.07.2026", telegram: "@RoksyxMaks" },
 },
 
   // Зареєстровані бізнеси
