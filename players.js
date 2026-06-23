@@ -375,7 +375,16 @@ const players = {
   
 
 
-  };
+  
+  "makspsava": [
+    {
+      "role": "Охоронець",
+      "telegram": "t.me/RoksyxMaks",
+      "category": "Мерія",
+      "avatar": "https://i.postimg.cc/qRC2hPgC/IMG-20260624-003623-734.jpg",
+    },
+  ],
+};
 
 
 
