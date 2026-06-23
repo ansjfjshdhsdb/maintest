@@ -144,7 +144,16 @@ const players = {
 
    
   
-  "bodja150510": [
+  
+  "tymkoBr0": [
+    {
+      "role": "R1a Адміністратор-Патрульний",
+      "telegram": "8377880216",
+      "category": "Адміністрація",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-DB31837E7776B036FF3388DD03EC17F1-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
+"bodja150510": [
     {
       "role": "R1a Адміністратор-Патрульний",
       "telegram": "1334371648",
