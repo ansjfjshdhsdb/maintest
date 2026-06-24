@@ -125,13 +125,13 @@ const players = {
   ],
   "ONLYvPOTOKE": [
     {
-      role: "R1a Адміністратор-Патрульний",
-      telegram: "t.me/militaryxxs",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8290C1D85D315DB8C61C7E723F6D546E-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      "role": "R1c Адміністратор-Комунікатор",
+      "telegram": "5408573953",
+      "category": "Адміністрація",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-5DA5211B18586F679A008F8387CB57B7-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
-  "Black_Batman02": [
+"Black_Batman02": [
     {
       role: "R1a Адміністратор-Патрульний",
       telegram: "1093245097",
