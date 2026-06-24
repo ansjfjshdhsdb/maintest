@@ -15,30 +15,7 @@ const players = {
       "avatar": "https://i.postimg.cc/8C40Xrbd/IMG-20260624-004700-310.jpg",
     },
   ],
-  "Den45bgg": [
-    {
-      "role": "Охоронець",
-      "telegram": "t.me/Hoslifx7pro6ka",
-      "category": "Мерія",
-      "avatar": "https://i.postimg.cc/Ls3cdWmK/IMG-20260624-004339-483.jpg",
-    },
-  ],
-  "34436euf": [
-    {
-      "role": "Охоронець",
-      "telegram": "t.me/Artem75fgj",
-      "category": "Мерія",
-      "avatar": "https://i.postimg.cc/ydB7c98P/IMG-20260624-003930-118.jpg",
-    },
-  ],
-  "makspsava": [
-    {
-      "role": "Охоронець",
-      "telegram": "t.me/RoksyxMaks",
-      "category": "Мерія",
-      "avatar": "https://i.postimg.cc/qRC2hPgC/IMG-20260624-003623-734.jpg",
-    },
-  ],
+  
   "gikusya": [
     {
       role: "R7 Засновник сервера",
@@ -408,4 +385,27 @@ const players = {
 };
 
 
-
+"Den45bgg": [
+    {
+      "role": "Охоронець",
+      "telegram": "t.me/Hoslifx7pro6ka",
+      "category": "Мерія",
+      "avatar": "https://i.postimg.cc/Ls3cdWmK/IMG-20260624-004339-483.jpg",
+    },
+  ],
+  "34436euf": [
+    {
+      "role": "Охоронець",
+      "telegram": "t.me/Artem75fgj",
+      "category": "Мерія",
+      "avatar": "https://i.postimg.cc/ydB7c98P/IMG-20260624-003930-118.jpg",
+    },
+  ],
+  "makspsava": [
+    {
+      "role": "Охоронець",
+      "telegram": "t.me/RoksyxMaks",
+      "category": "Мерія",
+      "avatar": "https://i.postimg.cc/qRC2hPgC/IMG-20260624-003623-734.jpg",
+    },
+  ],
