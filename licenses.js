@@ -1217,6 +1217,7 @@ window.licenses = {
     "heehrhrhl9": { status: "Space diamond", telegram: "6510561713", role: "Банда" },
     "makspsava": { status: "ZEMAN", telegram: "8124501866", role: "Мафія" },
     "starikashka228337": { status: "Золотий Шлях", telegram: "5358641921", role: "Мафія" },
+    "itz_raose": { status: "Спецоперація Моссаду 001", telegram: "1431122546", role: "Моссад" },
     "Taras267975": { status: "Night Raid", telegram: "5358641921", role: "Мафія" },
   },
 
