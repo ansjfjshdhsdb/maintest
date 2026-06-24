@@ -371,7 +371,16 @@ const players = {
   
   
   
-  "777ivan07": [
+  
+  "Anya_wuow35": [
+    {
+      "role": "Радник",
+      "telegram": "t.me/Giko_0303",
+      "category": "Мерія",
+      "avatar": "https://i.postimg.cc/qqwGMFkd/IMG-20260624-223549-245.jpg",
+    },
+  ],
+"777ivan07": [
     {
       "role": "Заступник Мера",
       "telegram": "t.me/leleleka_best",
