@@ -368,7 +368,16 @@ const players = {
     },
   ],
 
-  "Asda7771jog": [
+  
+  "SIGMA2019827": [
+    {
+      "role": "Керівник охорони",
+      "telegram": "t.me/Shu754228",
+      "category": "Мерія",
+      "avatar": "https://i.postimg.cc/hP9VXy9K/photo-2026-06-07-21-07-06.jpg",
+    },
+  ],
+"Asda7771jog": [
     {
       "role": "Охоронець",
       "telegram": "t.me/burmalda1488676752",
