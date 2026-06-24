@@ -85,7 +85,12 @@ const players = {
       category: "ДАРШ",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-94FB4C1749F2241DECA41D2DE12AB95C-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
-
+    {
+      "role": "Радник",
+      "telegram": "t.me/XxsSashaxxjj",
+      "category": "Мерія",
+      "avatar": "https://i.postimg.cc/ry5Mgfrj/IMG-20260624-010747-809.jpg",
+    },
   ],
 
   
@@ -369,26 +374,7 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-5CD467A78208C95DC904F3F5209EE15C-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
-  
-  
-
-  
-
-
-  
-  
-  
-  
-  
-  "XxsSashaxxjj": [
-    {
-      "role": "Радник",
-      "telegram": "t.me/XxsSashaxxjj",
-      "category": "Мерія",
-      "avatar": "https://i.postimg.cc/ry5Mgfrj/IMG-20260624-010747-809.jpg",
-    },
-  ],
-"master_patata1": [
+  "master_patata1": [
     {
       "role": "Секретар",
       "telegram": "t.me/hello_amqruko",
@@ -396,7 +382,7 @@ const players = {
       "avatar": "https://i.postimg.cc/8C40Xrbd/IMG-20260624-004700-310.jpg",
     },
   ],
-"Den45bgg": [
+  "Den45bgg": [
     {
       "role": "Охоронець",
       "telegram": "t.me/Hoslifx7pro6ka",
@@ -404,7 +390,7 @@ const players = {
       "avatar": "https://i.postimg.cc/Ls3cdWmK/IMG-20260624-004339-483.jpg",
     },
   ],
-"34436euf": [
+  "34436euf": [
     {
       "role": "Охоронець",
       "telegram": "t.me/Artem75fgj",
@@ -412,7 +398,7 @@ const players = {
       "avatar": "https://i.postimg.cc/ydB7c98P/IMG-20260624-003930-118.jpg",
     },
   ],
-"makspsava": [
+  "makspsava": [
     {
       "role": "Охоронець",
       "telegram": "t.me/RoksyxMaks",
