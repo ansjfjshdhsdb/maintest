@@ -367,4 +367,13 @@ const players = {
       avatar: "https://i.postimg.cc/qRC2hPgC/IMG-20260624-003623-734.jpg",
     },
   ],
+
+  "Asda7771jog": [
+    {
+      "role": "Охоронець",
+      "telegram": "t.me/burmalda1488676752",
+      "category": "Мерія",
+      "avatar": "https://i.postimg.cc/J4dPQdsD/photo-2026-06-24-15-55-30.jpg",
+    },
+  ],
 };
