@@ -370,7 +370,16 @@ const players = {
 
   
   
-  "roxbennis0": [
+  
+  "777ivan07": [
+    {
+      "role": "Заступник Мера",
+      "telegram": "t.me/leleleka_best",
+      "category": "Мерія",
+      "avatar": "https://i.postimg.cc/NMmjdVGf/photo-2026-06-24-15-54-03.jpg",
+    },
+  ],
+"roxbennis0": [
     {
       "role": "Радник",
       "telegram": "t.me/lauwerx007",
