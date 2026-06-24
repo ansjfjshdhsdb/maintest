@@ -369,7 +369,16 @@ const players = {
   ],
 
   
-  "SIGMA2019827": [
+  
+  "roxbennis0": [
+    {
+      "role": "Радник",
+      "telegram": "t.me/lauwerx007",
+      "category": "Мерія",
+      "avatar": "https://i.postimg.cc/RhxN9mpw/photo-2026-06-06-12-31-43.jpg",
+    },
+  ],
+"SIGMA2019827": [
     {
       "role": "Керівник охорони",
       "telegram": "t.me/Shu754228",
