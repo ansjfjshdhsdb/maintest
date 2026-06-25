@@ -307,9 +307,8 @@ window.licenses = {
     "filipp_top11": { "role": "684", "status": "628775", "expiry": "", "telegram": "6268247897" },
     "fgfhgghggg56": { "role": "202", "status": "956201", "expiry": "", "telegram": "2105130356" },
     "FunnyArtem_2012": { "role": "18 266", "status": "522728", "expiry": "", "telegram": "5228238256" },
-    "ferd1358": { "role": "1 294", "status": "612605", "expiry": "", "telegram": "6124873630" },
-
-    "fimozik_tworozok": { role: "6000", status: "828770", expiry: "", telegram: "7700192997" },
+    "ferd1358": { role: "20900", status: "612605", expiry: "", telegram: "6124873630" },
+"fimozik_tworozok": { role: "6000", status: "828770", expiry: "", telegram: "7700192997" },
     "foksy070": { role: "19000", status: "257860", expiry: "", telegram: "8601736027" },
     // G
     "gonorer45": { "role": "14 520", "status": "120161", "expiry": "", "telegram": "1613994040" },
