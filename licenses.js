@@ -651,8 +651,8 @@ window.licenses = {
     "sastntpro": { role: "797", status: "848848", expiry: "", telegram: "8487014064" },
     "sorawye": { role: "4300", status: "842166", expiry: "", telegram: "1660291594" },
     // T
-    "Twister_devil8393": { "role": "20 745", "status": "535178", "expiry": "", "telegram": "1783909923" },
-    "Tezil0": { "role": "23 457", "status": "538615", "expiry": "", "telegram": "6156909455" },
+    "Twister_devil8393": { role: "23001", status: "535178", expiry: "", telegram: "1783909923" },
+"Tezil0": { "role": "23 457", "status": "538615", "expiry": "", "telegram": "6156909455" },
     "tus47e": { "role": "1 283", "status": "160774", "expiry": "", "telegram": "7741728209" },
     "Taim_omp": { "role": "6 080", "status": "560548", "expiry": "", "telegram": "5485975054" },
     "Tima213400": { "role": "748", "status": "470558", "expiry": "", "telegram": "5587637443" },
