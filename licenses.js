@@ -376,8 +376,8 @@ window.licenses = {
     "jgdfgjfgnd": { "role": "9 853", "status": "310763", "expiry": "", "telegram": "7630293394" },
     "jeka34567899": { "role": "88 471", "status": "811456", "expiry": "", "telegram": "8114402013" },
     "jdjdudhshshdb": { "role": "143 553", "status": "630257", "expiry": "", "telegram": "6306896242" },
-    "jari2slow": { "role": "3 217", "status": "825774", "expiry": "", "telegram": "8253274959" },
-    "jehfirgrivbrhtklf": { "role": "8 344", "status": "595327", "expiry": "", "telegram": "5959832681" },
+    "jari2slow": { role: "6600", status: "825774", expiry: "", telegram: "8253274959" },
+"jehfirgrivbrhtklf": { "role": "8 344", "status": "595327", "expiry": "", "telegram": "5959832681" },
 
 
 
