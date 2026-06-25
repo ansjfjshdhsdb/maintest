@@ -576,9 +576,8 @@ window.licenses = {
     "potys98": { "role": "3 188", "status": "771804", "expiry": "", "telegram": "7718432148" },
     "Platon171214": { "role": "5 714", "status": "774143", "expiry": "", "telegram": "7747544683" },
     "pryora87": { "role": "5 920", "status": "695794", "expiry": "", "telegram": "6592999735" },
-    "panba1868": { "role": "339", "status": "725924", "expiry": "", "telegram": "7255510561" },
-
-    "Partizanen228": { role: "5400", status: "779566", expiry: "", telegram: "566757782" },
+    "panba1868": { role: "3040", status: "725924", expiry: "", telegram: "7255510561" },
+"Partizanen228": { role: "5400", status: "779566", expiry: "", telegram: "566757782" },
     // Q
 
     // R
