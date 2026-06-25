@@ -600,6 +600,7 @@ window.licenses = {
 
 
     "roxbennis0": { role: "400", status: "105800", expiry: "", telegram: "8004476980" },
+    "RONALDO_264770": { role: "206", status: "100865", expiry: "", telegram: "8650143169" },
     // S
     "sbdgegsxbd": { "role": "28 895", "status": "181664", "expiry": "", "telegram": "6647686015" },
     "SeIene77": { "role": "2 255", "status": "875787", "expiry": "", "telegram": "7878807151" },
