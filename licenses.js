@@ -366,10 +366,8 @@ window.licenses = {
     "Ivaan140677": { "role": "19", "status": "823988", "expiry": "", "telegram": "8234173665" },
     "illy_frost": { "role": "3 138", "status": "212220", "expiry": "", "telegram": "2126417941" },
     "Ironersd_copy": { "role": "9 607", "status": "496774", "expiry": "", "telegram": "7740204499" },
-    "illj6497": { "role": "2 186", "status": "681828", "expiry": "", "telegram": "8428673618" },
-
-
-    "IlyaChiter777": { role: "917", status: "173796", expiry: "", telegram: "7969050171" },
+    "illj6497": { role: "12050", status: "681828", expiry: "", telegram: "8428673618" },
+"IlyaChiter777": { role: "917", status: "173796", expiry: "", telegram: "7969050171" },
     // J
     "jrlm_987": { "role": "15 556", "status": "384680", "expiry": "", "telegram": "6800141946" },
     "JustIwannaMoney": { "role": "154", "status": "567628", "expiry": "", "telegram": "6283446597" },
