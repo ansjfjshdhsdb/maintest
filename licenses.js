@@ -175,8 +175,8 @@ window.licenses = {
     "Andrey20Andrey14": { "role": "8 290", "status": "533376", "expiry": "", "telegram": "5441196502" },
     "ARS123434N": { "role": "1 242", "status": "646338", "expiry": "", "telegram": "6469006001" },
     "Arsenic3996": { "role": "56 142", "status": "764605", "expiry": "", "telegram": "7643022641" },
-    "aferiouhghn2025": { "role": "10 419", "status": "537100", "expiry": "", "telegram": "5375487073" },
-    "AnreyPro_Hakk": { "role": "5 185", "status": "511197", "expiry": "", "telegram": "5119306695" },
+    "aferiouhghn2025": { role: "ветеран", status: "537100", expiry: "", telegram: "5375487073" },
+"AnreyPro_Hakk": { "role": "5 185", "status": "511197", "expiry": "", "telegram": "5119306695" },
     "Artem53974": { "role": "5 185", "status": "810826", "expiry": "", "telegram": "5119306695" },
     "ARtem4uk": { "role": "63 412", "status": "191436", "expiry": "", "telegram": "1915195071" },
    
