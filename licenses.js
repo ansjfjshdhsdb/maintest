@@ -544,6 +544,7 @@ window.licenses = {
     "opxcaa9": { "role": "8 581", "status": "743709", "expiry": "", "telegram": "7096407845" },
     "Ostapuki228": { "role": "3 738", "status": "812443", "expiry": "", "telegram": "812346521" },
 
+    "Orlovskij_M": { role: "ветеран", status: "402522", expiry: "", telegram: "5225767229" },
     // P
     "palamarka2288": { "role": "Полковник", "status": "434780", "expiry": "", "telegram": "7806572251" },
     "pavel36558": { "role": "6 807", "status": "186748", "expiry": "", "telegram": "7485750248" },
