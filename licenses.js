@@ -506,6 +506,7 @@ window.licenses = {
     "Makarmaka91": { role: "15600", status: "462622", expiry: "", telegram: "6229743963" },
     "Maksimlytv1": { role: "14000", status: "494760", expiry: "", telegram: "7609463406" },
     "Maxym5615": { role: "12800", status: "738591", expiry: "", telegram: "5912378155" },
+    "Miron097ua": { role: "ветеран", status: "735643", expiry: "", telegram: "6435553200" },
     // N
     "NAZAR_UKRAINE2022": { role: "34 228", status: "715515", expiry: "", telegram: "515160116052" },
     "NonameGold1": { role: "1 506", status: "550533", expiry: "", telegram: "5333294290" },
