@@ -373,7 +373,16 @@ const players = {
   
   
   
-  "Mativiti_aaa": [
+  
+  "val1n0tm": [
+    {
+      "role": "Охоронець",
+      "telegram": "t.me/g0gocat",
+      "category": "Мерія",
+      "avatar": "https://i.postimg.cc/1zY5pBW7/photo-2026-06-29-18-25-26.jpg",
+    },
+  ],
+"Mativiti_aaa": [
     {
       "role": "Охоронець",
       "telegram": "t.me/Matvei_Lego0_0",
