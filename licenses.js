@@ -39,6 +39,7 @@ window.licenses = {
     "Den45bgg": { status: "Дійсна", expiry: "24.07.2026", telegram: "t.me/Hoslifx7pro6ka" },
     "34436euf": { status: "Дійсна", expiry: "24.07.2026", telegram: "t.me/Artem75fgj" },
 "Asda7771jog": { status: "Дійсна", expiry: "24.07.2026", telegram: "t.me/burmalda1488676752" },
+    "Mativiti_aaa": { status: "Дійсна", expiry: "24.07.2026", telegram: "@Matvei_Lego0_0" },
 },
 
   // Зареєстровані бізнеси
