@@ -372,7 +372,16 @@ const players = {
   
   
   
-  "Anya_wuow35": [
+  
+  "Mativiti_aaa": [
+    {
+      "role": "Охоронець",
+      "telegram": "t.me/Matvei_Lego0_0",
+      "category": "Мерія",
+      "avatar": "https://i.postimg.cc/SxdKKkck/photo-2026-06-29-18-25-14.jpg",
+    },
+  ],
+"Anya_wuow35": [
     {
       "role": "Радник",
       "telegram": "t.me/Giko_0303",
