@@ -296,6 +296,7 @@ window.licenses = {
     
 
     "eeeeyegeggegehux": { role: "ветеран", status: "275559", expiry: "", telegram: "5599228299" },
+    "egorok18": { role: "ветеран", status: "846580", expiry: "", telegram: "5807324082" },
     // F
     "Fantomchik_TV": { "role": "940", "status": "928605", "expiry": "", "telegram": "6053471356" },
     "firsunin2013": { "role": "60 646", "status": "407511", "expiry": "", "telegram": "5119828268" },
