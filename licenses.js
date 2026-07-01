@@ -785,6 +785,7 @@ window.licenses = {
   dbr: {
     "3cy_77781046": { role: "Генерал-Майор", status: "418637", telegram: "6370149052" },
     "Slammed310": { role: "Капрал", status: "109602", telegram: "6026275163" },
+    "SIGMA2019827": { role: "Капрал", status: "917837", telegram: "8378012679" },
 },
 
   // Таксистська ліцензія
