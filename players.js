@@ -171,7 +171,16 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-AB24D78C55810DE8C8D00F170CC31CA8-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
-  "DANYA0705DANYA": [
+  
+  "Andrew_01174": [
+    {
+      "role": "R1b Адміністратор-Повітряний Контроль",
+      "telegram": "8377880216",
+      "category": "Адміністрація",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C35A54FED47B8A4CAB79E0C9746DF19F-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
+"DANYA0705DANYA": [
     {
       role: "Начальник НПС",
       telegram: "t.me/xXz8br8Xx",
