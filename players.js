@@ -289,7 +289,16 @@ const players = {
     },
   ],
   
-  "Slammed310": [
+  
+  "Maksimka20131411": [
+    {
+      "role": "Працівник ДБР",
+      "telegram": "8632389084",
+      "category": "ДБР",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-92402577BA86B7ABBE1D66FA37E6876F-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
+"Slammed310": [
     {
       "role": "Працівник ДБР",
       "telegram": "6026275163",
