@@ -22,8 +22,7 @@ window.licenses = {
     "DariySmertnk": { status: "Дійсна", expiry: "30.07.2026", telegram: "7889063904" },
     "Mykhailo_Zaya1": { status: "Дійсна", expiry: "30.07.2026", telegram: "5295879849" },
     "Valintin530": { status: "Дійсна", expiry: "30.07.2026", telegram: "5409858031" },
-    "Maksimka20131411": { status: "Дійсна", expiry: "30.07.2026", telegram: "8632389084" },
-    "CAXAPOK_5685rb": { status: "Дійсна", expiry: "30.07.2026", telegram: "8143665638" },
+"CAXAPOK_5685rb": { status: "Дійсна", expiry: "30.07.2026", telegram: "8143665638" },
     
 
     // ДБР
