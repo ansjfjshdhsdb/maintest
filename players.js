@@ -267,14 +267,6 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-11F84C9369CEA50F7E97A612B8685ADB-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
-"SIGMA2019827": [
-    {
-      "role": "Працівник ДБР",
-      "telegram": "8378012679",
-      "category": "ДБР",
-      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6349BB4002E3C8509FE93A137873820C-Png/150/150/AvatarHeadshot/Png/noFilter",
-    },
-  ],
 "Maksimka20131411": [
     {
       "role": "Працівник ДБР",
