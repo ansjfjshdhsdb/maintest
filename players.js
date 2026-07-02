@@ -267,18 +267,7 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-11F84C9369CEA50F7E97A612B8685ADB-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
-  "3cy_77781046": [
-    {
-      role: "Директор ДБР",
-      telegram: "6370149052",
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CF5D427A75324224CC1CE77FC765D670-Png/150/150/AvatarHeadshot/Png/noFilter",
-    },
-  ],
-  
-  
-  
-  "SIGMA2019827": [
+"SIGMA2019827": [
     {
       "role": "Працівник ДБР",
       "telegram": "8378012679",
