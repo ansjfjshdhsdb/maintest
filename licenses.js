@@ -48,6 +48,7 @@ window.licenses = {
     "Den45bgg": { status: "Дійсна", expiry: "24.07.2026", telegram: "t.me/Hoslifx7pro6ka" },
     "DoggyGames_TV24": { status: "Дійсна", expiry: "24.07.2026", telegram: "t.me/Doggy_Arrrr" },
     "makspsava": { status: "Дійсна", expiry: "24.07.2026", telegram: "t.me/RoksyxMaks" },
+    "34436euf": { status: "Дійсна", expiry: "24.08.2026", telegram: "t.me/Artem75fgj" },
 },
 
   // Зареєстровані бізнеси
