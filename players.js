@@ -41,13 +41,13 @@ const players = {
   ],
   "Andrushka_pupsik": [
     {
-      role: "R4 Головний Адміністратор - Технічний Адміністратор",
-      telegram: "5262299554",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2B95AE261EC071378C8302F224B4C7BD-Png/150/150/AvatarHeadshot/Png/noFilter",
+      "role": "R4 Головний Адміністратор-Технічний Адміністратор",
+      "telegram": "5262299554",
+      "category": "Адміністрація",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6BFE2CCC933544A43F2960DEB2B73826-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
-  "maksumkasymk789": [
+"maksumkasymk789": [
     {
       role: "R3 Старший адміністратор",
       telegram: "t.me/white_wins",
