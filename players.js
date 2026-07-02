@@ -172,7 +172,16 @@ const players = {
     },
   ],
   
-  "Andrew_01174": [
+  
+  "eeeeyegeggegehux": [
+    {
+      "role": "R1a Адміністратор-Патрульний",
+      "telegram": "5599228299",
+      "category": "Адміністрація",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-86422F21357F24D529A8BF311E7C5C43-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
+"Andrew_01174": [
     {
       "role": "R1b Адміністратор-Повітряний Контроль",
       "telegram": "8377880216",
