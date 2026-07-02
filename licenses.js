@@ -36,8 +36,8 @@ window.licenses = {
     
 
     "makspsava": { status: "Дійсна", expiry: "24.07.2026", telegram: "t.me/RoksyxMaks" },
-    "Den45bgg": { status: "Дійсна", expiry: "24.07.2026", telegram: "t.me/Hoslifx7pro6ka" },
-    "34436euf": { status: "Дійсна", expiry: "24.07.2026", telegram: "t.me/Artem75fgj" },
+    "Den45bgg": { status: "Дійсна", expiry: "24.08.2026", telegram: "t.me/Hoslifx7pro6ka" },
+"34436euf": { status: "Дійсна", expiry: "24.07.2026", telegram: "t.me/Artem75fgj" },
 "Asda7771jog": { status: "Дійсна", expiry: "24.07.2026", telegram: "t.me/burmalda1488676752" },
     "Mativiti_aaa": { status: "Дійсна", expiry: "24.07.2026", telegram: "t.me/Matvei_Lego0_0" },
     "val1n0tm": { cans: "CANS через val1n0tm.", status: "Дійсна", expiry: "24.07.2026", telegram: "t.me/g0gocat" },
