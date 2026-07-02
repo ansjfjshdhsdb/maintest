@@ -44,6 +44,7 @@ window.licenses = {
     "Asda7771jog": { status: "Дійсна", expiry: "24.07.2026", telegram: "t.me/burmalda1488676752" },
     "Slammed310": { status: "Дійсна", expiry: "02.08.2026", telegram: "6026275163" },
     "SIGMA2019827": { status: "Дійсна", expiry: "02.08.2026", telegram: "8378012679" },
+    "Maksimka20131411": { status: "Дійсна", expiry: "02.08.2026", telegram: "8632389084" },
 },
 
   // Зареєстровані бізнеси
