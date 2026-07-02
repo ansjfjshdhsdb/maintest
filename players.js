@@ -248,15 +248,7 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F996F8CFD4ECEDA7A40C3F84F4670747-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
-  "rb_girl1535": [
-    {
-      role: "Суддя",
-      telegram: "t.me/D1RT4M",
-      category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-007599C06AE5701BA415E94D28B4910F-Png/150/150/AvatarHeadshot/Png/noFilter",
-    },
-  ],
-  "svervanchik": [
+"svervanchik": [
     {
       role: "Суддя",
       telegram: "t.me/Svervanchik",
