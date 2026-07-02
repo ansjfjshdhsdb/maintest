@@ -220,21 +220,7 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4D74895EEC1F4CA85C925E04EBA61D55-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
-  "eeeeyegeggegehux": [
-    {
-      role: "Суддя",
-      telegram: "t.me/JonDR_9620R",
-      category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8381BA2F4889ED8823C85AEC360CC9B6-Png/150/150/AvatarHeadshot/Png/noFilter",
-    },
-    {
-      role: "Організатор ДАРШ",
-      telegram: "t.me/JonDR_9620R",
-      category: "ДАРШ",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D83AA4B0835F3C4BC156AB934348856D-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-  "Yffgjjifh": [
+"Yffgjjifh": [
     {
       role: "Суддя",
       telegram: "t.me/Yarik4h",
