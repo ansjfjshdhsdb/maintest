@@ -706,7 +706,7 @@ window.licenses = {
     "unsleppy000": { "role": "636", "status": "733794", "expiry": "", "telegram": "7331918407" },
     "UKBSROBV": { "role": "4562", "status": "648600", "expiry": "", "telegram": "7232915575" },
 
-    "Uvelir173": { role: "10600", status: "573653", expiry: "", telegram: "6535507590\" },
+    "Uvelir173": { "role": "10600", "status": "573653", "expiry": "", "telegram": "6535507590" },
     // V
     "vitali77rr": { "role": "7 814", "status": "267637", "expiry": "", "telegram": "6378314737" },
     "Vitalikpqpa": { "role": "39 242", "status": "416770", "expiry": "", "telegram": "7706399895" },
