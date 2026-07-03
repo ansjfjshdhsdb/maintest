@@ -410,4 +410,13 @@ const players = {
       "avatar": "https://i.postimg.cc/J4dPQdsD/photo-2026-06-24-15-55-30.jpg",
     },
   ],
+
+  "3cy_77781046": [
+    {
+      "role": "Директор ДБР",
+      "telegram": "https://t.me/ISKODAI",
+      "category": "ДБР",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F32BFF17E90087404726B0DEA89DD2AB-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
 };
