@@ -307,15 +307,7 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-46422B5667021E2404CF32D2360E627B-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
-  "Maksimka20131411": [
-    {
-      role: "Працівник СБС",
-      telegram: "t.me/maks2022UK",
-      category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B5D62044B7852A73C738BBD917BEF007-Png/150/150/AvatarHeadshot/Png/noFilter",
-    },
-  ],
-  "CAXAPOK_5685rb": [
+"CAXAPOK_5685rb": [
     {
       role: "Працівник СБС",
       telegram: "t.me/K0VBACA",
