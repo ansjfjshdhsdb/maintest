@@ -419,4 +419,13 @@ const players = {
       "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F32BFF17E90087404726B0DEA89DD2AB-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
+
+  "SIGMA2019827": [
+    {
+      "role": "Працівник ДБР",
+      "telegram": "https://t.me/shu4777",
+      "category": "ДБР",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6349BB4002E3C8509FE93A137873820C-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
 };
