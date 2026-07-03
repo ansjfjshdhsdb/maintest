@@ -546,8 +546,8 @@ window.licenses = {
     // O
     "od1nok02": { "role": "25 160", "status": "847708", "expiry": "", "telegram": "7089943642" },
     "olegh34": { "role": "74 998", "status": "133500", "expiry": "", "telegram": "5007175515" },
-    "ONLYvPOTOKE": { "role": "48 498", "status": "559540", "expiry": "", "telegram": "5408573953" },
-    "osadcija1": { "role": "820", "status": "258189", "expiry": "", "telegram": "1894630609" },
+    "ONLYvPOTOKE": { role: "Генерал", status: "559540", expiry: "КОРД", telegram: "5408573953" },
+"osadcija1": { "role": "820", "status": "258189", "expiry": "", "telegram": "1894630609" },
     "Oleg3422PRO": { "role": "4 040", "status": "498549", "expiry": "", "telegram": "5497100065" },
     "o123opk": { "role": "32 305", "status": "785797", "expiry": "", "telegram": "7852586318" },
     "oleg5192": { "role": "9 635", "status": "750399", "expiry": "", "telegram": "7504636795" },
