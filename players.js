@@ -428,4 +428,13 @@ const players = {
       "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6349BB4002E3C8509FE93A137873820C-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
+
+  "Slammed310": [
+    {
+      "role": "Працівник ДБР",
+      "telegram": "https://t.me/n1sosset",
+      "category": "ДБР",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B5F134515A6CE7A152A0F3AE835F8488-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
 };
