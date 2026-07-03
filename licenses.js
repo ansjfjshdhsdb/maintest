@@ -767,7 +767,8 @@ window.licenses = {
     "username": { role: "кількістьXP", status: "айді", expiry: "", telegram: "telegram" },
 
 
-  },
+      "zaaahaaar_20": { role: "11500", status: "309520", expiry: "", telegram: "5203143264" },
+},
 
   /* Звання працівників держ органів
        role - звання
