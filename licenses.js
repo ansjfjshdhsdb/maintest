@@ -809,6 +809,7 @@ window.licenses = {
 "Slammed310": { role: "Сержант ДБР", status: "109602", telegram: "6026275163" },
     "SIGMA2019827": { role: "Сержант ДБР", status: "917837", telegram: "8378012679" },
 "Maksimka20131411": { role: "Сержант ДБР", status: "304863", telegram: "8632389084" },
+    "Yffgjjifh": { role: "Майор ДБР", status: "709536", telegram: "5367053785" },
 },
 
   // Таксистська ліцензія
