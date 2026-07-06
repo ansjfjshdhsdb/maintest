@@ -447,4 +447,13 @@ const players = {
       "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CE0B4522286947779C628E0A38F8DC60-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
+
+  "Po_po171": [
+    {
+      "role": "Працівник ДБР",
+      "telegram": "https://t.me/Fola1d",
+      "category": "ДБР",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8C09D9D92857D9B0AA45F0DF8A7ECDA1-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
 };
