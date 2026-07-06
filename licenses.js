@@ -812,6 +812,7 @@ window.licenses = {
 "Maksimka20131411": { role: "Сержант ДБР", status: "304863", telegram: "8632389084" },
     "Yffgjjifh": { role: "Майор ДБР", status: "709536", telegram: "5367053785" },
     "Po_po171": { role: "Капрал ДБР", status: "332622", telegram: "6221089320" },
+    "BMW_5098591": { role: "Капрал ДБР", status: "802604", telegram: "6042898465" },
 },
 
   // Таксистська ліцензія
