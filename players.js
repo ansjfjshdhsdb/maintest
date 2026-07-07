@@ -268,7 +268,16 @@ const players = {
     },
   ],
 
-  "olegh34": [
+  
+  "ferd1358": [
+    {
+      "role": "Суддя",
+      "telegram": "6124873630",
+      "category": "Суд",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B75E6E229AC2813A8054FF0BED9B238C-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
+"olegh34": [
     {
       "role": "Суддя",
       "telegram": "5007175515",
