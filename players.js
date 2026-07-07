@@ -267,6 +267,15 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-11F84C9369CEA50F7E97A612B8685ADB-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
+
+  "olegh34": [
+    {
+      "role": "Суддя",
+      "telegram": "5007175515",
+      "category": "Суд",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2677D1D2238F099DA382781105E4447C-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
 "jofer_hob": [
     {
       role: "Директор СБС",
