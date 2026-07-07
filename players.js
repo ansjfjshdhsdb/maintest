@@ -269,7 +269,16 @@ const players = {
   ],
 
   
-  "ferd1358": [
+  
+  "Huhaidjopy": [
+    {
+      "role": "Суддя",
+      "telegram": "671500607",
+      "category": "Суд",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-99DC22B64852C360E8301416C26901CB-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
+"ferd1358": [
     {
       "role": "Суддя",
       "telegram": "6124873630",
