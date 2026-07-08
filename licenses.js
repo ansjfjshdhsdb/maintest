@@ -808,8 +808,8 @@ window.licenses = {
   // Звання працівників ДБР
   dbr: {
     "3cy_77781046": { role: "Генерал-майор ДБР", status: "418637", telegram: "6370149052" },
-"Slammed310": { role: "Сержант ДБР", status: "109602", telegram: "6026275163" },
-    "SIGMA2019827": { role: "Сержант ДБР", status: "917837", telegram: "8378012679" },
+    "Slammed310": { role: "Старший сержант ДБР", status: "109602", telegram: "6026275163" },
+"SIGMA2019827": { role: "Сержант ДБР", status: "917837", telegram: "8378012679" },
     "Maksimka20131411": { role: "Старший сержант ДБР", status: "304863", telegram: "8632389084" },
 "Yffgjjifh": { role: "Майор ДБР", status: "709536", telegram: "5367053785" },
     "Po_po171": { role: "Капрал ДБР", status: "332622", telegram: "6221089320" },
