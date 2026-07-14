@@ -306,6 +306,14 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3BAAD0ABB9EEC44F687005EF331EA087-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
+  "Bohdan1031": [
+    {
+      role: "Працівник СБС",
+      telegram: "5795035694",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3EF378437735605B747B5FA703318BDB-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
   "Rostyk_gej71": [
     {
       role: "Водій лімузина",
