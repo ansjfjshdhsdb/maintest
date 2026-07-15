@@ -18,8 +18,7 @@ window.licenses = {
 
     // СБС
     "jofer_hob": { status: "Дійсна", expiry: "30.07.2026", telegram: "6840451973" },
-    "Caston08963": { status: "Дійсна", expiry: "30.07.2026", telegram: "7557434574" },
-    "DariySmertnk": { status: "Дійсна", expiry: "30.07.2026", telegram: "7889063904" },
+"DariySmertnk": { status: "Дійсна", expiry: "30.07.2026", telegram: "7889063904" },
     "Mykhailo_Zaya1": { status: "Дійсна", expiry: "30.07.2026", telegram: "5295879849" },
     "Valintin530": { status: "Дійсна", expiry: "30.07.2026", telegram: "5409858031" },
     "CAXAPOK_5685rb": { status: "Дійсна", expiry: "30.07.2026", telegram: "8143665638" },
