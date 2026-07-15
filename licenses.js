@@ -58,6 +58,7 @@ window.licenses = {
 
     "levopravo2024": { status: "Дійсна", expiry: "15.08.2026", telegram: "5134083594" },
     "Caston08963": { status: "Дійсна", expiry: "15.08.2026", telegram: "7557434574" },
+    "3cy_77781046": { status: "Дійсна", expiry: "15.08.2026", telegram: "6370149052" },
 },
 
   // Зареєстровані бізнеси
