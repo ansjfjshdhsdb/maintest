@@ -713,6 +713,7 @@ window.licenses = {
     "TymofeiM1": { "role": "127 916", "status": "700497", "expiry": "", "telegram": "7009639495" },
     "t1piks": { "role": "16 728", "status": "628291", "expiry": "", "telegram": "6284370726" },
     "tymkoBr0": { "role": "0", "status": "837108", "expiry": "", "telegram": "8377880216" },
+    "timur_gladovsky": { role: "1", status: "141105", expiry: "«»", telegram: "1419518440" },
     // U
     "Ukraine_n100": { "role": "752", "status": "930726", "expiry": "", "telegram": "7264304153" },
     "Ukristi2020": { "role": "3 430", "status": "483663", "expiry": "", "telegram": "6638796744" },
