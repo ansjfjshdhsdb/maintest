@@ -260,6 +260,7 @@ window.licenses = {
     "Cib_328": { role: "26 012", status: "648453", expiry: "", telegram: "6483302909" },
 
     "CAMERA_MEN2014": { role: "32000", status: "904524", expiry: "", telegram: "5245671161" },
+    "Cintyr3201": { role: "1", status: "567359", expiry: "«»", telegram: "5672159419" },
     // D
     "DOGvDOMIKE": { "role": "22 055", "status": "291643", "expiry": "", "telegram": "6433921215" },
     "dolinskuy": { "role": "49 083", "status": "136181", "expiry": "", "telegram": "1812225406" },
