@@ -443,6 +443,7 @@ window.licenses = {
 
     "kakaxa_45293": { role: "40", status: "815729", expiry: "", telegram: "7290496078" },
     "kolopohv": { role: "ветеран", status: "481628", expiry: "", telegram: "6286540452" },
+    "KILLER_00803": { role: "1", status: "769772", expiry: "«»", telegram: "7693053757" },
     // L
     "LingateYT": { "role": "4 410", "status": "773562", "expiry": "", "telegram": "5622537101" },
     "Luski2228": { "role": "1 617", "status": "849803", "expiry": "", "telegram": "8013042029" },
