@@ -209,6 +209,7 @@ window.licenses = {
     "ATEM_SYRC": { role: "ветеран", status: "436191", expiry: "", telegram: "1915195071" },
     "Artemka_51623": { role: "ветеран", status: "419696", expiry: "", telegram: "6960847394" },
     "ARTPOF10": { role: "7100", status: "826503", expiry: "", telegram: "8268771461" },
+    "ArtLor111": { role: "1", status: "859424", expiry: "«»", telegram: "8599333141" },
     // B
     "Bandera909": { "role": "Ветеран", "status": "353690", "expiry": "", "telegram": "6909809142" },
     "banan_228gg1": { "role": "56 775", "status": "607724", "expiry": "", "telegram": "7249340917" },
