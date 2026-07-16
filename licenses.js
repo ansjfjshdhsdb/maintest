@@ -672,7 +672,7 @@ window.licenses = {
     "SOMIK_557": { "role": "17 527", "status": "860105", "expiry": "", "telegram": "8609908965" },
     "SashaMa00": { "role": "4 046", "status": "723613", "expiry": "", "telegram": "7233099532" },
     "slen57763": { "role": "6 121", "status": "548512", "expiry": "", "telegram": "5489975171" },
-    "samunzhiev": { role: "1", status: "118386", expiry: "ДКОРД", telegram: "3864603231" },
+    "samunzhiev": { role: "Генерал", status: "188386", expiry: "ДКОРД", telegram: "3864603231" },
 "sania100291": { "role": "28 695", "status": "753823", "expiry": "", "telegram": "7530227663" },
     "sashko2507": { "role": "18 013", "status": "622359", "expiry": "", "telegram": "6220388915" },
     "stas1234vo": { "role": "16 332", "status": "394857", "expiry": "", "telegram": "8572452096" },
