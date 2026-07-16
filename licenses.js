@@ -826,6 +826,7 @@ window.licenses = {
     "BMW_5098591": { role: "Капрал ДБР", status: "802604", telegram: "6042898465" },
     "kirya2770": { role: "Рядовий ДБР", status: "103148", telegram: "1482508992" },
       "BMW_M5F456": { role: "Капрал", status: "898806", telegram: "8064092076" },
+    "CAXAPOK_QUW": { role: "Капрал", status: "762117", telegram: "1172225259" },
 },
 
   // Таксистська ліцензія
