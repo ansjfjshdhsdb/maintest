@@ -484,4 +484,13 @@ const players = {
       "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8E06E8DD33270B15FC96AFA1211EF345-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
+
+  "Zaj_Zuga3": [
+    {
+      "role": "Працівник ДБР",
+      "telegram": "6025730893",
+      "category": "ДБР",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4FA28D11AAE715A8EA725148B80535BA-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
 };
