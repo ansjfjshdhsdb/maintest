@@ -470,7 +470,7 @@ const players = {
   "BMW_M5F456": [
     {
       "role": "Працівник ДБР",
-      "telegram": "8985990822",
+      "telegram": "8064092076",
       "category": "ДБР",
       "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-696796418B186F54C28F8ED30F141FF2-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
