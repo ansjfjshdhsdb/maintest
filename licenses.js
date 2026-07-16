@@ -770,6 +770,7 @@ window.licenses = {
     "Yatupoykogdabalans2": { "role": "31 684", "status": "571870", "expiry": "", "telegram": "5710792095" },
 
     "yryry0060": { role: "2060", status: "110677", expiry: "", telegram: "6772023583" },
+    "YTNEON": { role: "1", status: "835575", expiry: ".", telegram: "8357562286" },
     // Z
     "zer14685": { "role": "8 700", "status": "607719", "expiry": "", "telegram": "6078536424" },
     "Zoomsos123": { "role": "65 129", "status": "350533", "expiry": "", "telegram": "5339606531" },
