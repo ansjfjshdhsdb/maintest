@@ -453,6 +453,7 @@ window.licenses = {
     "kolopohv": { role: "ветеран", status: "481628", expiry: "", telegram: "6286540452" },
     "KILLER_00803": { role: "1", status: "769772", expiry: "«»", telegram: "7693053757" },
     "KRYTI_BREINROTU1": { role: "1", status: "519977", expiry: "«»", telegram: "5190014030" },
+    "kiril_78095": { role: "1", status: "554884", expiry: "«»", telegram: "5543933561" },
     // L
     "LingateYT": { "role": "4 410", "status": "773562", "expiry": "", "telegram": "5622537101" },
     "Luski2228": { "role": "1 617", "status": "849803", "expiry": "", "telegram": "8013042029" },
