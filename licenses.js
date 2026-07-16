@@ -830,6 +830,7 @@ window.licenses = {
     "Zaj_Zuga3": { role: "Капрал ДБР", status: "105602", telegram: "6025730893" },
     "CAXAPOK_QUW": { role: "Капрал ДБР", status: "762117", telegram: "1172225259" },
     "BMW_M5F456": { role: "Капрал ДБР", status: "898806", telegram: "8064092076" },
+    "Zaj_Zuga3": { role: "Капрал ДБР", status: "105602", telegram: "6025730893" },
 },
 
   // Таксистська ліцензія
