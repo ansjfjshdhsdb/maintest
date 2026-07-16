@@ -457,4 +457,13 @@ const players = {
     },
   ],
 
+
+  "kirya2770": [
+    {
+      "role": "Працівник ДБР",
+      "telegram": "1482508992",
+      "category": "ДБР",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6FA849410A5B08F933C69103C4274CD1-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
 };
