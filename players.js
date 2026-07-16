@@ -475,4 +475,13 @@ const players = {
       "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-696796418B186F54C28F8ED30F141FF2-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
+
+  "CAXAPOK_QUWI": [
+    {
+      "role": "Працівник ДБР",
+      "telegram": "1172225259",
+      "category": "ДБР",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8E06E8DD33270B15FC96AFA1211EF345-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
 };
