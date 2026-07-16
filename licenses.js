@@ -304,7 +304,7 @@ window.licenses = {
     "den2000den2000": { "role": "26 202", "status": "505266", "expiry": "", "telegram": "5057460149" },
     "death_eye069": { "role": "3 062", "status": "577898", "expiry": "", "telegram": "5779308182" },
     "danylo23679": { "role": "16 099", "status": "835504", "expiry": "", "telegram": "8355250760" },
-    "DoggyGames_TV24": { role: "20800", status: "626357", expiry: "", telegram: "6261556258" },
+    "DoggyGames_TV24": { role: "Ветеран", status: "626357", expiry: "«»", telegram: "6261556258" },
 "DINISLOX666": { "role": "29 359", "status": "588258", "expiry": "", "telegram": "5887162462" },
     "DanieliGro": { "role": "29 359", "status": "542893", "expiry": "", "telegram": "5422861091" },
     
