@@ -60,6 +60,7 @@ window.licenses = {
     "Caston08963": { status: "Дійсна", expiry: "15.08.2026", telegram: "7557434574" },
     "3cy_77781046": { status: "Дійсна", expiry: "15.08.2026", telegram: "6370149052" },
     "Zaj_Zuga3": { status: "Дійсна", expiry: "15.02.2026", telegram: "6025730893" },
+    "CAXAPOK_QUW": { status: "Дійсна", expiry: "15.08.2026", telegram: "6025730893" },
 },
 
   // Зареєстровані бізнеси
