@@ -466,4 +466,13 @@ const players = {
       "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6FA849410A5B08F933C69103C4274CD1-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
+
+  "BMW_M5F456": [
+    {
+      "role": "Працівник ДБР",
+      "telegram": "8985990822",
+      "category": "ДБР",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-696796418B186F54C28F8ED30F141FF2-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
 };
