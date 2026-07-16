@@ -448,21 +448,7 @@ const players = {
   ],
 
 
-  "Yffgjjifh": [
-    {
-      "role": "Працівник ДБР",
-      "telegram": "https://t.me/Yarik4h",
-      "category": "ДБР",
-      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CE0B4522286947779C628E0A38F8DC60-Png/150/150/AvatarHeadshot/Png/noFilter",
-    },
-    {
-      role: "Керівник ПП",
-      telegram: "t.me/Yarik4h",
-      category: "НПС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F996F8CFD4ECEDA7A40C3F84F4670747-Png/150/150/AvatarHeadshot/Png/noFilter",
-    },
-  ],
-  "Po_po171": [
+"Po_po171": [
     {
       "role": "Працівник ДБР",
       "telegram": "https://t.me/Fola1d",
