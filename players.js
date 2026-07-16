@@ -471,12 +471,4 @@ const players = {
     },
   ],
 
-  "BMW_5098591": [
-    {
-      "role": "Працівник ДБР",
-      "telegram": "https://t.me/mxsnxc",
-      "category": "ДБР",
-      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E1A6264E0C3147E1F08AE9027E87FE9E-Png/150/150/AvatarHeadshot/Png/noFilter",
-    },
-  ],
 };
