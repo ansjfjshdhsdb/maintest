@@ -78,13 +78,13 @@ const players = {
   ],
   "Rjdef31": [
     {
-      role: "R1b Адміністратор-Повітряний Контроль",
-      telegram: "6952642925",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9418E9FDC4342C2971FEA3149DD8D5A1-Png/150/150/AvatarHeadshot/Png/noFilter",
+      "role": "R1d Адмін Безпеки Сервера",
+      "telegram": "6952642925",
+      "category": "Адміністрація",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9418E9FDC4342C2971FEA3149DD8D5A1-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
-  "ONLYvPOTOKE": [
+"ONLYvPOTOKE": [
     {
       "role": "R1c Адміністратор-Комунікатор",
       "telegram": "5408573953",
