@@ -32,12 +32,12 @@ const players = {
       "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6BFE2CCC933544A43F2960DEB2B73826-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
-"maksumkasymk789": [
+  "maksumkasymk789": [
     {
-      role: "R3 Старший адміністратор",
-      telegram: "t.me/white_wins",
-      category: "Адміністрація",
-      avatar: "/img/avatar/admin/maksumkasymk789.webp",
+      "role": "R1a Адміністратор-Патрульний",
+      "telegram": "8495519537",
+      "category": "Адміністрація",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-5628128C29B514F977AEA8215868BACB-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
 "XxsSashaxxjj": [
