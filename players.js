@@ -40,14 +40,6 @@ const players = {
       avatar: "/img/avatar/admin/maksumkasymk789.webp",
     },
   ],
-  "sergij18": [
-    {
-      role: "R1a Адміністратор-Патрульний",
-      telegram: "1138522447",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E5CC33E7C8EEE48592B08C86828131AB-Png/150/150/AvatarHeadshot/Png/noFilter",
-    },
-  ],
 "XxsSashaxxjj": [
     {
       role: "R1c Адміністратор-Комунікатор",
