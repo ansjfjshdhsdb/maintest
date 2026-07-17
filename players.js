@@ -116,15 +116,15 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B2B00BD9F45C8E4FB5D999C3538BBA3A-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
-"bodja150510": [
+  "bodja150510": [
     {
-      role: "R1a Адміністратор-Патрульний",
-      telegram: "1334371648",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4377B212193308CB7A61922DB2813ECD-Png/150/150/AvatarHeadshot/Png/noFilter",
+      "role": "R2a Головний Координатор Ролі",
+      "telegram": "1334371648",
+      "category": "Адміністрація",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4D0AF282EE478B71AE86F7B2697B2C82-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
-  "svyatosuk489": [
+"svyatosuk489": [
     {
       role: "R1a Адміністратор-Патрульний",
       telegram: "1567835732",
