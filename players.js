@@ -48,15 +48,7 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E5CC33E7C8EEE48592B08C86828131AB-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
-  "Slavixzz4356": [
-    {
-      role: "R3 Старший Адміністратор",
-      telegram: "6028006274",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-037ED260BFBF40733CF6B7B62FD2B0D2-Png/150/150/AvatarHeadshot/Png/noFilter",
-    },
-  ],
-  "XxsSashaxxjj": [
+"XxsSashaxxjj": [
     {
       role: "R1c Адміністратор-Комунікатор",
       telegram: "t.me/XxsSashaxxjj",
