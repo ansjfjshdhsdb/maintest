@@ -486,4 +486,13 @@ const players = {
       "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4FA28D11AAE715A8EA725148B80535BA-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
+
+  "Maksimka20131411": [
+    {
+      "role": "Працівник ДБР",
+      "telegram": "8556942531",
+      "category": "ДБР",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-470C20EA4789EB3AAA1BDC2A4598F152-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
 };
