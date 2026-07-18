@@ -414,15 +414,7 @@ const players = {
       "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D4D95489623B296F9FF0889043A50D88-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
-  "Itz_raose": [
-    {
-      "role": "Заступник Директора ДБР",
-      "telegram": "https://t.me/ob1zyan",
-      "category": "ДБР",
-      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-EE29D2185FADDAA8C31AC59037EFD586-Png/150/150/AvatarHeadshot/Png/noFilter",
-    },
-  ],
-  "SIGMA2019827": [
+"SIGMA2019827": [
     {
       "role": "Працівник ДБР",
       "telegram": "https://t.me/shu4777",
