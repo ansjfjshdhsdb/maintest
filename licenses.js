@@ -62,6 +62,7 @@ window.licenses = {
     "Zaj_Zuga3": { status: "Дійсна", expiry: "15.02.2026", telegram: "6025730893" },
     "CAXAPOK_QUW": { status: "Дійсна", expiry: "15.08.2026", telegram: "6025730893" },
     "BMW_M5F456": { status: "Дійсна", expiry: "15.08.2026", telegram: "8064092076" },
+    "Maksimka20131411": { status: "Дійсна", expiry: "17.08.2026", telegram: "8556942531" },
 },
 
   // Зареєстровані бізнеси
