@@ -835,7 +835,6 @@ window.licenses = {
     "Yffgjjifh": { role: "Майор ДБР", status: "709536", telegram: "5367053785" },
     "Po_po171": { role: "Капрал ДБР", status: "332622", telegram: "6221089320" },
     "BMW_5098591": { role: "Капрал ДБР", status: "802604", telegram: "6042898465" },
-    "kirya2770": { role: "Рядовий ДБР", status: "103148", telegram: "1482508992" },
 "CAXAPOK_QUW": { role: "Капрал ДБР", status: "762117", telegram: "1172225259" },
 "CAXAPOK_QUW": { role: "Капрал ДБР", status: "762117", telegram: "1172225259" },
     "BMW_M5F456": { role: "Капрал ДБР", status: "898806", telegram: "8064092076" },
