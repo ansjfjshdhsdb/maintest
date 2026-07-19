@@ -406,14 +406,6 @@ const players = {
     },
   ],
 
-  "4ooSe_3104": [
-    {
-      "role": "Директор ДБР",
-      "telegram": "https://t.me/pupt1mmy",
-      "category": "ДБР",
-      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D4D95489623B296F9FF0889043A50D88-Png/150/150/AvatarHeadshot/Png/noFilter",
-    },
-  ],
 "SIGMA2019827": [
     {
       "role": "Працівник ДБР",
