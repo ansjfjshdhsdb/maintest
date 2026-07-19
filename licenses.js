@@ -829,8 +829,7 @@ window.licenses = {
 
   // Звання працівників ДБР
   dbr: {
-    "4ooSe_3104": { role: "Директор ДБР", status: "363568", telegram: "5688779177" },
-    "itz_raose": { role: "Заступник Директора ДБР", status: "400143", telegram: "1431122546" },
+"itz_raose": { role: "Заступник Директора ДБР", status: "400143", telegram: "1431122546" },
     "Slammed310": { role: "Старший сержант ДБР", status: "109602", telegram: "6026275163" },
     "SIGMA2019827": { role: "Сержант ДБР", status: "917837", telegram: "8378012679" },
     "Yffgjjifh": { role: "Майор ДБР", status: "709536", telegram: "5367053785" },
