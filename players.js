@@ -216,18 +216,7 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1D0527DBC9EAF981AD87BB30F0447998-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
-  "Zaj_Zuga3": [
-    {
-      role: "Державний Адвокат",
-      telegram: "t.me/Dz7xj",
-      category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-11F84C9369CEA50F7E97A612B8685ADB-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  
-  
-  "Huhaidjopy": [
+"Huhaidjopy": [
     {
       "role": "Суддя",
       "telegram": "671500607",
