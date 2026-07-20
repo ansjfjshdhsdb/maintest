@@ -56,8 +56,7 @@ window.licenses = {
     "Val1n0tm": { status: "Дійсна", expiry: "24.08.2026", telegram: "t.me/g0gocat" },
     "mativiti_aaa": { status: "Дійсна", expiry: "24.08.2026", telegram: "t.me/Matvei_Lego0_0" },
 
-    "levopravo2024": { status: "Дійсна", expiry: "15.08.2026", telegram: "5134083594" },
-    "Caston08963": { status: "Дійсна", expiry: "15.08.2026", telegram: "7557434574" },
+"Caston08963": { status: "Дійсна", expiry: "15.08.2026", telegram: "7557434574" },
 "Zaj_Zuga3": { status: "Дійсна", expiry: "15.02.2026", telegram: "6025730893" },
     "CAXAPOK_QUW": { status: "Дійсна", expiry: "15.08.2026", telegram: "6025730893" },
     "BMW_M5F456": { status: "Дійсна", expiry: "15.08.2026", telegram: "8064092076" },
